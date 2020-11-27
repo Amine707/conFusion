@@ -11,8 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="503cfa76-ce14-4b2c-be08-817a47a5805d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JS/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/styles.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -26,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -62,7 +69,8 @@
       <updated>1606235725202</updated>
       <workItem from="1606235726390" duration="5933000" />
       <workItem from="1606299683179" duration="12886000" />
-      <workItem from="1606385709520" duration="12012000" />
+      <workItem from="1606385709520" duration="19693000" />
+      <workItem from="1606474036325" duration="624000" />
     </task>
     <servers />
   </component>
@@ -79,8 +87,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="526" y="174" key="#File_Watchers" timestamp="1606423138100">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="526" y="174" key="#File_Watchers/0.0.1280.680@0.0.1280.680" timestamp="1606423138100" />
     <state x="267" y="19" key="#Inspections" timestamp="1606238387457">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -89,10 +102,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1606411059513" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606417358667">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1606417358667" />
     <state x="310" y="119" key="EditFileWatcherDialog" timestamp="1606411014641">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="310" y="119" key="EditFileWatcherDialog/0.0.1280.680@0.0.1280.680" timestamp="1606411014641" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1606427812776">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606427812776" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1606427812776">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606427812776" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1606427812775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606427812775" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1606427812776">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606427812776" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1606408251320">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
